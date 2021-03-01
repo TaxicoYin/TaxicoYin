@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/DE-Gnome-1793D1?style=for-the-badge&logo=gnome&logoColor=ffffff)](https://www.gnome.org)
 [![](https://img.shields.io/badge/oneplus-8T-F5010C?style=for-the-badge&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com)
 
+### Skills
+[![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)](https://www.java.org)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.javascript.com)
+[![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)](https://www.java.org)
+[![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)](https://www.c.org)
+[![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](https://www.c.org)
+
+
 ###
 [![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/jevera/)
 
