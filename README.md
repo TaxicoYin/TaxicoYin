@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxicoyin&repo=TaxicoYin.github.io)](TaxicoYin.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxicoyin&repo=TaxicoYin.github.io)](https://TaxicoYin.github.io)
 
