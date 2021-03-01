@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
 ![](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=ffffff)
-![](https://img.shields.io/badge/Eclipse%10IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=ffffff)
+![](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=ffffff)
 
 
 
