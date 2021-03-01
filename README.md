@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)](https://www.java.org)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.javascript.com)
 [![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)](https://www.java.org)
-[![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)](https://www.c.org)
-[![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c-plus-plus&logoColor=ffffff)](https://www.c.org)
+[![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)]
+[![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)]
 
 
 ###
