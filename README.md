@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ###
 [![](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org)
 [![](https://img.shields.io/badge/DE-Gnome-1793D1?style=for-the-badge&logo=gnome&logoColor=ffffff)](https://www.gnome.org)
+[![](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.windows.com)
 [![](https://img.shields.io/badge/oneplus-8T-F5010C?style=for-the-badge&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com)
 
 ### Skills
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=ffffff)](https://www.manjaro.org)
 [![](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=ffffff)](https://www.centos.org)
 [![](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=ffffff)](https://www.kali.org)
-[![](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.windows.com)
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.windows.com)
 [![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)](https://www.java.org)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.javascript.com)
 ![](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 
 
-###
+### I play game on 
 [![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/jevera/)
 [![](https://img.shields.io/badge/gog.com-86328A?style=for-the-badge&logo=gog.com)](https://www.gog.com/u/JeveraLee)
 [![](https://img.shields.io/badge/ubisoft-000000?style=for-the-badge&logo=ubisoft)](https://ubisoftconnect.com/zh-CN/profile/Dk_Johnson)
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/epic%20games-313131?style=for-the-badge&logo=epic-games)
 ![](https://img.shields.io/badge/origin-F56C2D?style=for-the-badge&logo=Origin)
 
-### Contact ME
+### Contact ME via
 ###
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
 
