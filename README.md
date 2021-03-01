@@ -47,6 +47,9 @@ Here are some ideas to get you started:
 ###
 [![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/jevera/)
 [![](https://img.shields.io/badge/gog.com-86328A?style=for-the-badge&logo=gog.com)](https://steamcommunity.com/id/jevera/)
+[![](https://img.shields.io/badge/ubisoft-000000?style=for-the-badge&logo=ubisoft)](https://steamcommunity.com/id/jevera/)
+[![](https://img.shields.io/badge/epic%20games-313131?style=for-the-badge&logo=epic-games)](https://steamcommunity.com/id/jevera/)
+[![](https://img.shields.io/badge/xbox-107C10?style=for-the-badge&logo=xbox)](https://steamcommunity.com/id/jevera/)
 
 ### Contact ME
 ###
