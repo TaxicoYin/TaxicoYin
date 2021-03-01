@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/epic%20games-313131?style=for-the-badge&logo=epic-games)
 ![](https://img.shields.io/badge/origin-F56C2D?style=for-the-badge&logo=Origin)
 
-### Contact ME via
-###
+### 📫 How to reach me:
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxicoyin&repo=TaxicoYin.github.io)](TaxicoYin.github.io)
 
