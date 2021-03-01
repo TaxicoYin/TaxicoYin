@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=taxicoyin.readme)
-![](http://antzuhl.cn:4000/get/@taxicoyin.readme)
 ![info](https://github-readme-stats.vercel.app/api?username=taxicoyin&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+![](http://antzuhl.cn:4000/get/@taxicoyin.readme)
