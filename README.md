@@ -57,6 +57,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taxicoyin&repo=TaxicoYin.github.io&show_icons=true&theme=radical)](https://TaxicoYin.github.io)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
