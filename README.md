@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=taxicoyin&show_icons=true&count_private=true&theme=radical)
 ###
 ![](https://visitor-badge.glitch.me/badge?page_id=taxicoyin.readme)
+[![](https://simpleicons.org/icons/steam.svg)](https://steamcommunity.com/id/jevera/)
 
