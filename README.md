@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 ###
 ![](https://visitor-badge.glitch.me/badge?page_id=taxicoyin.readme)
 [![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/jevera/)
-![](https://img.shields.io/badge/?style=for-the-badge&logo=windows)
-![](https://img.shields.io/badge/archlinux?style=for-the-badge&logo=archlinux)
+![](https://img.shields.io/badge/-archlinux-1793D1?style=for-the-badge&logo=archlinux)
 
