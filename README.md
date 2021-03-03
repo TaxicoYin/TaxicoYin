@@ -57,6 +57,3 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
-
-### 📑 This is my personal page ...
-[![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://TaxicoYin.github.io)
