@@ -53,11 +53,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/epic%20games-313131?style=for-the-badge&logo=epic-games)
 ![](https://img.shields.io/badge/origin-F56C2D?style=for-the-badge&logo=Origin)
 ### This is my steam profile ...
-[![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://steamcommunity.com/id/jevera/)
-
+[![](https://badges.steamprofile.com/profile/default/steam/76561198083869141.png)](https://steamcommunity.com/id/jevera/)
 
 ### 📫 How to reach me:
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
 
 ### 📑 This is my personal page ...
-[![](https://badges.steamprofile.com/profile/default/steam/76561198083869141.png)](https://TaxicoYin.github.io)
+[![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://TaxicoYin.github.io)
