@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=taxicoyin&show_icons=true&count_private=true&theme=radical)
 ###
 ![](https://visitor-badge.glitch.me/badge?page_id=taxicoyin.readme)
-###
+### 💻 I currently use ...
 [![](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org)
 [![](https://img.shields.io/badge/DE-Gnome-1793D1?style=for-the-badge&logo=gnome&logoColor=ffffff)](https://www.gnome.org)
 [![](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.windows.com)
 [![](https://img.shields.io/badge/oneplus-8T-F5010C?style=for-the-badge&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com)
 
-### Skills
+### 🔬 And this is my Skills ...
 [![](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=ffffff)](https://www.deepin.org)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://www.ubuntu.org)
 [![](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=ffffff)](https://www.manjaro.org)
@@ -45,18 +45,19 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
 
 
-### I play game on 
+### 🎮 I play game on ...
 [![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/jevera/)
 [![](https://img.shields.io/badge/gog.com-86328A?style=for-the-badge&logo=gog.com)](https://www.gog.com/u/JeveraLee)
 [![](https://img.shields.io/badge/ubisoft-000000?style=for-the-badge&logo=ubisoft)](https://ubisoftconnect.com/zh-CN/profile/Dk_Johnson)
 [![](https://img.shields.io/badge/xbox-107C10?style=for-the-badge&logo=xbox)](https://account.xbox.com/zh-cn/profile?gamertag=Robert%20Johnsons)
 ![](https://img.shields.io/badge/epic%20games-313131?style=for-the-badge&logo=epic-games)
 ![](https://img.shields.io/badge/origin-F56C2D?style=for-the-badge&logo=Origin)
-###
+### This is my steam profile ...
 [![](https://badges.steamprofile.com/profile/default/steam/76561198083869141.png)](https://steamcommunity.com/id/jevera/)
 
 
 ### 📫 How to reach me:
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
 
+### 📑 This is my personal page ...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaxicoYin&repo=TaxicoYin.github.io&theme=radical)](https://TaxicoYin.github.io)
