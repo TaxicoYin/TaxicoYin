@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/epic%20games-313131?style=for-the-badge&logo=epic-games)
 ![](https://img.shields.io/badge/origin-F56C2D?style=for-the-badge&logo=Origin)
 ![](https://badges.steamprofile.com/profile/default/steam/76561198083869141.png)
+[url=https://steamsignature.com][img]http://steamsignature.com/status/default/76561198083869141.png[/img][/url][url=steam://friends/add/'.76561198083869141.'][img]http://steamsignature.com/AddFriend.png[/img][/url]
 
 ### 📫 How to reach me:
 [![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
