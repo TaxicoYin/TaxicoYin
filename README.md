@@ -19,16 +19,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=taxicoyin.readme)
 ### 💻 I currently use ...
 [![](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org)
-
-### 🎮 I play game on ...
-[![](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/jevera/)
-[![](https://img.shields.io/badge/gog.com-86328A?style=for-the-badge&logo=gog.com)](https://www.gog.com/u/JeveraLee)
-[![](https://img.shields.io/badge/ubisoft-000000?style=for-the-badge&logo=ubisoft)](https://ubisoftconnect.com/zh-CN/profile/Dk_Johnson)
-[![](https://img.shields.io/badge/xbox-107C10?style=for-the-badge&logo=xbox)](https://account.xbox.com/zh-cn/profile?gamertag=Robert%20Johnsons)
-![](https://img.shields.io/badge/epic%20games-313131?style=for-the-badge&logo=epic-games)
-![](https://img.shields.io/badge/origin-F56C2D?style=for-the-badge&logo=Origin)
 ### 🔻 This is my steam profile ...
 [![](https://badges.steamprofile.com/profile/default/steam/76561198083869141.png)](https://steamcommunity.com/id/jevera/)
 
-### 📫 How to reach me:
-[![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge)](mailto:dr.bart@live.com)
